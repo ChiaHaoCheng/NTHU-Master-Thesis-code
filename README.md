@@ -1,4 +1,4 @@
-# NTHU-Master-Thesis
+# NTHU-Statistics Master-Thesis
 
 ## Title : Effects of Ignoring Failure Rate Heterogeneity on Mean Lifetime Estimation
 
